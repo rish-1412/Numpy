@@ -10,7 +10,7 @@ Requirements for not showing broadcasting error:
 '''
 import numpy as np
 a= np.array([1,2,3,4]) # it is a (1,4) array
-b= np.array([[1,2,3,4],[4,5,6,7]]) # it is a (2,4) array 
+b= np.array([[10,2,3,4],[4,5,6,7]]) # it is a (2,4) array 
 c= a+b
 print(a)
 print(b)
