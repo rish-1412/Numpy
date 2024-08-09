@@ -7,7 +7,6 @@ Requirements for not showing broadcasting error:
 2) Atleast in array shapes like (1,3) and (2,3); one number should be same in shape to perform
    the operations. The resultant array would be in the shape (2,3).
 3) Atleast any one in the corresponding elements of shapes should be equal. For e.g. (1,2) and (2,2).
-4) Refer for any confusion: https://youtu.be/mQd6UnJ4cTY?si=QHhvPwLjTzDhLjQI
 '''
 import numpy as np
 a= np.array([1,2,3,4]) # it is a (1,4) array
